@@ -1,0 +1,12 @@
+# Local-only credentials and generated files
+.env
+*.log
+pdf/samples/*.pdf
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+
+# Temporary archives
+*.zip
+*.tar.gz
